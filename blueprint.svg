@@ -2,15 +2,9 @@
 <!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
-	 <!-- <defs>
-  <style type="text/css">
-    @font-face {
-      font-family: 'Gloria Hallelujah';
-      src: url('');
-    }
-  </style>
-</defs> -->
+
 <style type="text/css">
+     @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah');
 	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st1{font-family:'Gloria Hallelujah';fill:#FFFFFF;}
 	.st2{font-size:24px;fill:#FFFFFF;}
